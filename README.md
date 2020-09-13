@@ -3,4 +3,4 @@
 Java Spring Boot, MongoDB and Neo4J
 - Features included - liking songs, unliking songs, friends,
 playlists, etc.
-- Managed data with MongoDB and Neo4J.
+- Managed data from the backend using http requests
